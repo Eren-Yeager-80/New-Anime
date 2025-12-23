@@ -1,4 +1,4 @@
-console.log("This is getting exicting");
+console.log("Welcome to Anime world");
 console.log("One peice");
 
 const a = 26;
