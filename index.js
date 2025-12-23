@@ -1,4 +1,4 @@
-console.log("This is getting exicting");
+console.log("No Nigga not so fast..");
 console.log("One peice");
 
 const a = 26;
