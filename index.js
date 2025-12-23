@@ -1,4 +1,6 @@
+
 console.log("No Nigga not so fast..");
+console.log("Welcome to Anime world");
 console.log("One peice");
 
 const a = 26;
